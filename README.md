@@ -24,20 +24,8 @@ You can install these libraries using pip: <pip install -r requirements.txt>
 ## Project Files
 
 - `archive`: Chinese-MNIST.
-- `evaluate_model.py`: Script for evaluating the model's performance.
-- `model.py`: Definition of the neural network model architecture.
+- `classification_muticlass_using_RNA.ipynb`: Used notebook
 - `README.md`: This file.
 
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request to propose improvements.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
-This is just an example README.md and can be customized according to the specific needs of your project. Make sure to include detailed information on how to use and contribute to the project, as well as any specific setup instructions.
 
 
